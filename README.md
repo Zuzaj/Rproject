@@ -37,8 +37,8 @@ Our group consists of 5 people from Computer Science and [] studies:
 * Zuzanna Jarlaczyńska
 * Martyna Baran
 * Dario Napolitano
-* Maria Leon
-* Laura Cañete 
+* Maria León Ruiz
+* Laura Cañete Yaque
 
 
 <!-- GETTING STARTED -->
