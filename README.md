@@ -31,7 +31,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## 	👩 👨Authors
+## 	👩 Authors 👨
 
 Our group consists of 5 people from Computer Science and [] studies:
 * Zuzanna Jarlaczyńska
@@ -39,14 +39,6 @@ Our group consists of 5 people from Computer Science and [] studies:
 * Dario Napolitano
 * Maria Leon
 * Laura
-
-
-
-
-### Built With
-
-The topic of our project is the world of automotive. We have chosen a dataset that presents different cars with their characteristics and conduct a comprehensive data analysis on this specific aspect. The aim of the project was to gain skills in using the R language and carrying out in-depth data analysis. This analysis consists of both preparing the data, cleaning up any inconsistencies such as missing information and creating graphs to visualise the data and make it easier to analyse.
-
 
 
 <!-- GETTING STARTED -->
@@ -57,7 +49,7 @@ The topic of our project is the world of automotive. We have chosen a dataset th
 <!-- USAGE EXAMPLES -->
 ## 📖 Data Information
 
-### Source
+### 💻 Source
 <a href="https://www.kaggle.com/datasets/tawfikelmetwally/automobile-dataset">Find our dataset under this link</a>
 
 
@@ -81,9 +73,9 @@ The dataset consists of following collumns:
 <!-- ROADMAP -->
 ## Project Contribution
 
-- [x] Topic Selection
-- [x] Data Collection
-- [x]📊 Analysis in R
+- [x] Topic Selection 📌
+- [x] Data Collection 📃
+- [x] Analysis in R 📊
 - [ ] Presentation of Results
     - [ ] Written Report
     - [ ] Oral Presentation
