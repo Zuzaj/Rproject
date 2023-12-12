@@ -33,12 +33,13 @@
 <!-- ABOUT THE PROJECT -->
 ## 	👩 Authors 👨
 
-Our group consists of 5 people from Computer Science and [] studies:
+Our group consists of 6 people:
 * Zuzanna Jarlaczyńska
 * Martyna Baran
 * Dario Napolitano
 * Maria León Ruiz
 * Laura Cañete Yaque
+* Pablo Reguero
 
 
 <!-- GETTING STARTED -->
